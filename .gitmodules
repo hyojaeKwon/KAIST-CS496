@@ -1,0 +1,15 @@
+[submodule "cs496_week1"]
+	path = cs496_week1
+	url = https://github.com/hyojaeKwon/cs496_week1.git
+[submodule "cs496_week3"]
+	path = cs496_week3
+	url = https://github.com/hyojaeKwon/cs496_week3.git
+[submodule "cs496_week2"]
+	path = cs496_week2
+	url = https://github.com/hyojaeKwon/cs496_week2.git
+[submodule "madcamp_week4"]
+	path = madcamp_week4
+	url = https://github.com/hyojaeKwon/madcamp_week4.git
+[submodule "cs496_week4"]
+	path = cs496_week4
+	url = https://github.com/hyojaeKwon/cs496_week4.git
